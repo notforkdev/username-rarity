@@ -8,5 +8,5 @@ Factor 2: Basic Words | If your username is literally a basic word, as in for ex
 Factor 3: Common suffixes/prefixes | you lose score for containing common suffixes/prefixes. They are also edgy because idk.
 
 # Packages
-This repository used ntlk for one of the factors, it is required to be used if you want the script to work.
+This repository used nltk for one of the factors, it is required to be used if you want the script to work.
 Run the following in the console to install ntlk `pip install nltk`
